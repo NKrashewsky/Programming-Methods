@@ -1,3 +1,3 @@
 # Programming-Methods
-Tasks for Filimonov Dmitriy Vasil'evich
+Tasks for Filimonov Dmitry Vasilievich
 
